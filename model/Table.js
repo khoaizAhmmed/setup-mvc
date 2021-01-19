@@ -7,4 +7,4 @@ const Table = {
         return rows
     }
 }
-module.exports = Social
+module.exports = Table
